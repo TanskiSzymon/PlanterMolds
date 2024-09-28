@@ -8,6 +8,9 @@ This project offers a 3D-printable mold for casting a gypsum planter, optimized 
 </p>
 
 
+<img width="825" alt="external" src="https://github.com/user-attachments/assets/82c11ac4-aa11-417c-a4a3-aae8139f4bc4">
+
+
 PlanterMolds provides a 3D-printable mold designed for creating a custom gypsum planter. The mold is compatible with small 3D printers like the A1 Mini, with no need for AMS functionality. You can print the mold using PLA, PETG, ABS, or ASA, depending on your preferences. The total filament consumption is 522g if you include the pouring funnel, or 465g without it. The print time is approximately 22 hours with the funnel or 20 hours without.
 
 The internal dimensions of the planter are 120mm in diameter and 95mm in height, while the external dimensions are 155mm in diameter and 105mm in height. The design ensures a robust and well-formed planter that can be easily cast using gypsum. Whether you’re a DIY enthusiast or a professional maker, this project offers a straightforward way to create beautiful, functional planters.
